@@ -1,4 +1,4 @@
-# Petriho siet
+## Petriho sieť
 
 klon stránky: http://www.petriflow.com/
 
